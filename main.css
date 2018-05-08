@@ -1,0 +1,11 @@
+.todo {
+  padding: 8px;
+  margin: 8px 0;
+  background-color: lightblue;
+}
+
+.done {
+  background-color: lightgrey;
+  color: grey;
+  text-decoration: line-through;
+}
