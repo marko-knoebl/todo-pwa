@@ -1,12 +1,17 @@
 {
-  "name": "Todo",
+  "name": "Todolist",
+  "short_name": "Todo",
+  "description": "Manage your todos",
   "start_url": ".",
   "display": "standalone",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "./icon-144.png",
       "sizes": "144x144",
       "type": "image/png"
     }
-  ]
+  ],
+  "background_color": "blue",
+  "theme_color": "blue"
 }
