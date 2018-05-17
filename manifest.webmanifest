@@ -1,0 +1,12 @@
+{
+  "name": "Todo",
+  "start_url": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}

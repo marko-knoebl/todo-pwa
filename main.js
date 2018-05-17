@@ -43,4 +43,6 @@ const handleSubmit = submitEvent => {
 };
 formElement.addEventListener("submit", handleSubmit);
 
+navigator.serviceWorker.register("./service-worker.js");
+
 renderTodos();
